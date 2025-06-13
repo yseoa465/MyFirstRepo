@@ -1,0 +1,4 @@
+Brief Introduction About Myself
+My name is Amos Osman. I am currently learning how to use GitHub and version control systems. 
+I enjoy learning new technologies and working on small coding projects to improve my skills.
+I am excited to start my journey in software development and look forward to collaborating with others and contributing to open-source projects in the future.
