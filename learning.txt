@@ -1,4 +1,4 @@
-["What I've learned from this course"]
+["What I have learned from this course"]
 I learned that Git tracks changes to my code, and GitHub stores these changes online. 
 I was able to fork a repository and submit a pull request on GitHub.
 Commits are like save points, and pushing sends my work to the cloud.
